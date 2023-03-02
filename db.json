@@ -15,9 +15,34 @@
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 1
+      "userId": 3,
+      "title": "Gorgeous Soft Chicken",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Luxurious Metal Bacon",
+      "id": 19
+    },
+    {
+      "userId": 1,
+      "title": "Licensed Rubber Gloves",
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "title": "Practical Metal Towels",
+      "id": 21
+    },
+    {
+      "userId": 4,
+      "title": "Electronic Fresh Pizza",
+      "id": 24
+    },
+    {
+      "userId": 4,
+      "title": "Licensed Frozen Chips",
+      "id": 25
     }
   ],
   "photos": []
