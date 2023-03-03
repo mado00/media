@@ -8,6 +8,8 @@ import { photosApi } from './apis/photosApi';
 export const store = configureStore({
   reducer: {
     users: usersReducer,
+    // [] is not Array....
+    // go to albumsApi and find reducerPath name(string) and use it
     [albumsApi.reducerPath]: albumsApi.reducer,
     [photosApi.reducerPath]: photosApi.reducer,
   },
